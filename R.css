@@ -1,0 +1,28 @@
+*{
+    text-align: center; font-size: 26px;
+    padding: 0; margin: 0;
+}
+
+Header {
+   background: linear-gradient(180deg,#FBFACB,#F3F059,#EFEC2A);padding: 0;margin: 0;border: #FFADEE 14px solid ;border-radius: 25px;
+}
+
+Header h1{
+    padding: 20; margin: 0; color:#CC3D00;
+    text-shadow: 3px 4px 5px #FFADEE;
+}
+
+Body{
+    background:#FBFACB;
+}
+
+H4{background: linear-gradient(180deg,#FBFACB,#F3F059,#EFEC2A);border-radius:60px;border: #FFC7DE 10px solid;margin:30px;color:#CC3D00;text-shadow: 3px 4px 5px #FFADEE;}
+
+img{border: 5px solid #FFADEE;border-radius: 65px; }
+
+P{margin: 10;font-size:16px; text-shadow: 2px 3px 4px #FFADEE;}
+    
+Footer p{padding: 20}
+.nombre{color:purple;text-shadow:3px 4px 5px #F066FF;}
+#k{text-align: end;}
+#k img{border: none}
